@@ -33,3 +33,11 @@ You can also change the values of `Cfg.VideoStereoSeparation` and `Cfg.VideoSter
 ## Notes
 
 This mod is compatible with other mods that do not modify the game’s executable files.
+
+## Plays well with
+
+[PainKiller Advanced Cheats](https://github.com/FluorescentHallucinogen/PainCheats)
+
+## See also
+
+[PainKiller VR Mod](https://github.com/FluorescentHallucinogen/painkiller-vr-mod)
